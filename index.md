@@ -2,5 +2,9 @@
 
 [Survey link](https://goo.gl/forms/pDu2y4jxGpFPvoig1)
 
-[Discussion 1](https://slides.com/zihaochen-1/deck)
+Dis01 (1/24) : [slide](https://slides.com/zihaochen-1/deck), [worksheet](https://stat222.github.io/assets/dis01.pdf)
+
+
+
+
 
