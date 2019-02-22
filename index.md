@@ -6,6 +6,8 @@ Dis01 (1/24) : [slide](https://slides.com/zihaochen-1/deck), [worksheet](https:/
 
 Dis04 (2/14): [EDA and Data Cleaning](https://stat222.github.io/assets/EDA.zip)
 
+Dis05 (2/21): [Visualization, feature engineering and linear regression](https://stat222.github.io/assets/lab5.zip)
+
 
 
 
