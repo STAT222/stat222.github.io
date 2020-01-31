@@ -1,12 +1,10 @@
-**Temporary site**
+**Sketchy website**
 
-[Survey link](https://goo.gl/forms/pDu2y4jxGpFPvoig1)
 
-Dis01 (1/24) : [slide](https://slides.com/zihaochen-1/deck), [worksheet](https://stat222.github.io/assets/dis01.pdf) solutions [1](https://stat222.github.io/assets/dis01-1.pdf), [2](https://stat222.github.io/assets/dis01-2.pdf), [3](https://stat222.github.io/assets/dis01-3.pdf), [4](https://stat222.github.io/assets/dis01-4.pdf)
 
-Dis04 (2/14): [EDA and Data Cleaning](https://stat222.github.io/assets/EDA.zip)
+[Lab1.zip](https://stat222.github.io/assets/Lab1.zip)
 
-Dis05 (2/21): [Visualization, feature engineering and linear regression](https://stat222.github.io/assets/lab5.zip)
+
 
 
 
