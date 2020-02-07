@@ -6,6 +6,10 @@
 
 
 
+Lab2: [Slide](https://slides.com/zihaochen-1/hypothesis-testing/fullscreen), [notebook](https://stat222.github.io/assets/Lab2.zip)
+
+
+
 
 
 
