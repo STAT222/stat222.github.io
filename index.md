@@ -10,7 +10,8 @@ Lab2: [Slide](https://slides.com/zihaochen-1/hypothesis-testing/fullscreen), [no
 
 
 
-Lab3: [note](http://ftp.cs.wisc.edu/pub/users/keles/849_TEX/lecture_100108.pdf), notebook
+Lab3: [note](http://ftp.cs.wisc.edu/pub/users/keles/849_TEX/lecture_100108.pdf), [notebook](https://stat222.github.io/assets/Lab3.zip)
 
 
 
+s
