@@ -18,9 +18,9 @@ Lab4: [note](http://statweb.stanford.edu/~ckirby/brad/other/CASI_Chap7_Nov2014.p
 
 
 
-Lab5: [note0](https://cs.wmich.edu/alfuqaha/summer14/cs6530/lectures/ClusteringAnalysis.pdf), [note1](https://cse.buffalo.edu/~jing/cse601/fa12/materials/clustering_density.pdf), [note2](http://people.csail.mit.edu/dsontag/courses/ml13/slides/lecture16.pdf), [code](https://hdbscan.readthedocs.io/en/latest/comparing_clustering_algorithms.html)
-
-
-
 Lab6: [data]( https://web.stanford.edu/~hastie/StatLearnSparsity_files/DATA/crime.html), [example](http://www.science.smith.edu/~jcrouser/SDS293/labs/lab10-py.html)
+
+
+
+Lab7: [notes](https://hackmd.io/@H47YBFejRnit4STMLs7Qkw/SyGvNxEPI), [slide-0](https://cs.wmich.edu/alfuqaha/summer14/cs6530/lectures/ClusteringAnalysis.pdf), [slide-1](https://cse.buffalo.edu/~jing/cse601/fa12/materials/clustering_density.pdf), [slide-2](http://people.csail.mit.edu/dsontag/courses/ml13/slides/lecture16.pdf), [code](https://hdbscan.readthedocs.io/en/latest/comparing_clustering_algorithms.html)
 
